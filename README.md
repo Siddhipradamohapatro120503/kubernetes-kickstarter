@@ -1,4 +1,4 @@
-## Kubestater
+## Kubestarter
 
 ## Architecture Guides
 
